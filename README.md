@@ -74,8 +74,8 @@ BankingSimulator/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/BankingSimulator.git
-cd BankingSimulator
+git clone https://github.com/your-username/BankingSimulatorSoftware.git
+cd BankingSimulatorSoftware
 ```
 
 ### **2. Install JDK 17+**
